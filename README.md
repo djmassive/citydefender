@@ -1,2 +1,2 @@
-# citydefender
-City Defender game written using PixiJS
+# City Defender
+City Defender game written using PixiJS. Early alpha version
